@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_padding_top_bottom">6.0dip</dimen>
+    <dimen name="tab_padding_left_right">40.0dip</dimen>
+    <dimen name="tab_height">40.0dip</dimen>
+    <dimen name="text_size_micro">12.0sp</dimen>
+</resources>
