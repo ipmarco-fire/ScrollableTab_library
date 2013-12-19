@@ -1,5 +1,5 @@
 <resources>
-    <style name="Tabs">
+    <style name="Scrollable_Tabs">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">@dimen/tab_height</item>
         <item name="android:background">@drawable/tab</item>
